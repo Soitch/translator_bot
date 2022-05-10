@@ -1,0 +1,4 @@
+fairseq==0.10.2
+nltk==3.6.5
+subword-nmt==0.3.7
+aiogram==2.19
